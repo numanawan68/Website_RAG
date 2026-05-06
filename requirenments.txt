@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sentence-transformers
+huggingface-hub
+transformers
+python-dotenv
+langchain_chroma
+unstructured
+langchain_experimental
+langchain-huggingface
+langchain_openai
+langchain-core
+
+
